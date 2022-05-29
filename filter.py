@@ -1,5 +1,9 @@
 #! /usr/bin/env python3
 
+# SPDX-FileCopyrightText: 2022 Marian Sauer
+#
+# SPDX-License-Identifier: BSD-2-Clause
+
 import cv2
 import numpy as np
 import matplotlib.pylab as plt
